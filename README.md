@@ -1,65 +1,43 @@
 # Smart India Hackathon Workshop
-# Date: 18:05:2024
-## Register Number:212223110033
-## Name:OVIYA P
+# Date: 10/03/25
+## Register Number:212224100043
+## Name:Prathiksaa.S
 
 ## Problem Title 
+SIH 1653: Web based Selector-Applicant Simulation Software
 
-
-E-Waste Facility Locator
 ## Problem Description
-Website that tells you the location of the nearest e-waste collection and recycling facility. Offers educational pop-ups on the harmful components of your e-waste and their effects on the environment and human health if not disposed correctly. There could be an option to input the model of your old device and earn credit points relative to the amount of precious metals recovered from the device if disposed correctly.
+Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defence carries out interviews for applications received against advertised vacancies and for promotion to next higher grade for scientific manpower inducted within DRDO. Description: The process of interviewing is a challenging task. An unbiased objective interviewing process helps identify the right talent. The basic process of an interview involves posing a set of questions by an interviewer and thereafter evaluating responses from candidates. Thus, the questions asked should be relevant and match the area/ expertise of the applicant and the responses should also be of relevance w.r.t. the question asked. Expected Solution: The proposed solution should provide experts as well as candidates a real life Board Room experience, starting with initial ice-breaking questions leading to in-depth techno-managerial (depending on the level of candidate) questions. It shall also be able to provide a quantifiable score for experts as well as the candidate for the relevancy of questions w.r.t. the area/ expertise of the applicant. Similarly, candidate responses should also be graded for relevancy w.r.t. the question asked, finally assisting in arriving at an overall score for the subject knowledge of the candidate and thus his/ her suitability against the advertised post.
 ## Problem Creater's Organization
-Ministry of Environment
-
+Ministry of Defence
 ## Idea
-1.Nearest E-Waste Facility Locator:
-Use Geocoding AI to find nearby e-waste facilities based on the user's current location.
-Implement image recognition to categorize e-waste when users upload photos, suggesting the appropriate recycling facility.
 
-2.Virtual Assistant:
-Offer a virtual assistant that provides guidance on proper e-waste disposal methods and data wiping techniques for devices with sensitive information.
-
-3.Educational Pop-ups:
-Display educational pop-ups to raise awareness about the harmful effects of e-waste on the environment and human health.
-
-4.Reward Points System:
-Introduce a reward points system where users earn points for each e-waste disposal, encouraging participation in recycling programs.
-
-5.Real-time Analytics Dashboard:
-Provide e-waste facilities with a dashboard showcasing real-time analytics and insights, including recycling rates and energy savings, to help users understand their impact on the environment.
-
-
-
-
+1)Virtual Boardroom Experience Simulated real-life interview panel with structured questioning. Adaptive ice-breaking questions, transitioning into techno-managerial discussions. Multi-expert panel interface for live and asynchronous evaluation.
+2)Intelligent Question Selection AI-driven question relevance analysis based on candidate’s domain expertise. Question bank categorized by technical depth, managerial acumen, and experience level. Dynamic question sequencing to maintain logical interview flow.
+3)Candidate Response Evaluation AI-powered natural language processing (NLP) to assess relevance, depth, and coherence of answers. Scoring model comparing candidate responses against expected benchmarks. Automated summarization of candidate strengths and improvement areas.
+4)Expert Panel Assistance Real-time feedback on question relevance to ensure unbiased interviews. Expert scoring module with aggregated ratings for objective assessment. AI-generated suggestions for follow-up questions based on candidate responses.
+5)Final Suitability Scoring Weighted scoring mechanism considering: Relevance of questions posed by experts. Relevance and depth of candidate’s responses. Overall subject knowledge & suitability for the role. Automated ranking system to streamline decision-making.
 
 
 
 
 ## Proposed Solution / Architecture Diagram
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/2d90266f-c84c-478a-8515-95086025582e)
+
 
 ## Use Cases
-![alt text](10-2.jpg)
+![image](https://github.com/user-attachments/assets/a9a3ff43-19ad-4040-89be-4f2d22297d5e)
+
 
 ## Technology Stack
-React.js
-
-Node.js 
-
-PostgreSQL
-
-Google maps
-
-Firebox Authenticator
-
-Git , Postman or Insomnia
+NLP & AI Models
+Speech-to-Text & Text Analysis
+Secure Cloud Database
+User-Friendly Web & Mobile Interface
 
 ## Dependencies
+Mapping service- 5 days
 
-Mapping service- 10 days
+Data collection- 15 days
 
-Data collection- 10 days
-
-budget- rs.50,000
-
+budget- rs.3,50,000 - 5,00,000
